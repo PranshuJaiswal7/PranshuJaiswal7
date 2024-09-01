@@ -4,15 +4,18 @@
 
 
 
-- 🌱 I’m currently learning **NextJs and 3js**
-
-- 💬 Ask me about **ReactJs,Nodejs,Expressjs and SQL.**
-
-- 📫 How to reach me **pranshujaiswal917@gmail.com**
-<p aligh="right">
-  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding" width="200" height="200"/>
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🌱 I’m currently learning <strong>NextJs and 3js</strong></li>
+      <li>💬 Ask me about <strong>ReactJs, Nodejs, Expressjs, and SQL.</strong></li>
+      <li>📫 How to reach me <strong>pranshujaiswal917@gmail.com</strong></li>
+    </ul>
+  </div>
+  <div style="flex: 0;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding" width="200" height="200"/>
+  </div>
+</div>
 
 
   <h3 align="left">Connect with me:</h3>
