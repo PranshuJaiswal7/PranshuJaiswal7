@@ -13,9 +13,7 @@
       <li>📫 How to reach me <strong>pranshujaiswal917@gmail.com</strong></li>
     </ul>
   </div>
-  <div style="flex: 0;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding" width="200" height="200"/>
-  </div>
+  
 </div>
 
 
