@@ -9,8 +9,10 @@
 - 💬 Ask me about **ReactJs,Nodejs,Expressjs and SQL.**
 
 - 📫 How to reach me **pranshujaiswal917@gmail.com**
-
+<p aligh="right">
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated coding" width="200" height="200"/>
+</p>
 
 
   <h3 align="left">Connect with me:</h3>
